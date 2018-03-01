@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/trinhnguyenvn/demo-puppeteer/issues"
   },
-  "homepage": "https://github.com/trinhnguyenvn/demo-puppeteer#readme"
+  "homepage": "https://github.com/trinhnguyenvn/demo-puppeteer#readme",
+  "devDependencies": {
+    "puppeteer": "^1.1.1"
+  }
 }
