@@ -1,0 +1,22 @@
+{
+  "name": "puppeteer",
+  "version": "1.0.0",
+  "description": "puppeteer test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trinhnguyenvn/puppeteer.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Trinh Nguyen <trinhnguyenvn@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/trinhnguyenvn/puppeteer/issues"
+  },
+  "homepage": "https://github.com/trinhnguyenvn/puppeteer#readme"
+}
