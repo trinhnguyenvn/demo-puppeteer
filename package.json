@@ -1,7 +1,7 @@
 {
   "name": "puppeteer",
   "version": "1.0.0",
-  "description": "puppeteer test",
+  "description": "puppeteer test p",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
