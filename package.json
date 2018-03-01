@@ -1,0 +1,22 @@
+{
+  "name": "demo-puppeteer",
+  "version": "1.0.0",
+  "description": "demo puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trinhnguyenvn/demo-puppeteer.git"
+  },
+  "keywords": [
+    "demo"
+  ],
+  "author": "Trinh Nguyen <trinhnguyenvn@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/trinhnguyenvn/demo-puppeteer/issues"
+  },
+  "homepage": "https://github.com/trinhnguyenvn/demo-puppeteer#readme"
+}
